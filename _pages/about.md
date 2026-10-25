@@ -22,6 +22,10 @@ Research interests
 
 Highlights
 ======
+* **Oct 2026:** Preprint [Mitochondrial PEX14 supports peroxisome biogenesis](/publication/2026-10-21-mitochondrial-pex14) posted on bioRxiv.
+* **Sep 2026:** Paper [No Attention, No Problem: DPU-Aware Attention Approximation in Modern YOLO on FPGA](/publication/2026-09-01-dpu-aware-attention-yolo-fpga) published at the Euromicro Conference on Digital System Design (DSD 2026).
+* **Sep 2026:** Preprint [FINN-Tro: Exploiting Verification Gaps in Dataflow Inference Accelerators](/publication/2026-09-20-finn-tro) on arXiv, and poster [FINN4YOLO](/publication/2026-09-24-finn4yolo) on real-time fisheye vision on FPGA.
+* **Jul 2026:** Preprint [dSTORMQuant](/publication/2026-07-03-dstormquant), a Python package for quantitative analysis of SMLM microscopy data, posted on bioRxiv.
 * **Mar 2025:** Started the M.Sc. in Data Science at Hochschule Bielefeld.
 * **2024:** Paper on explainable AI for Strict Left Bundle Branch Block diagnosis published at [IWINAC 2024](https://doi.org/10.1007/978-3-031-61137-7_47) (Springer LNCS).
 * **2024:** Paper on the NLP-powered college chatbot Lucy published in the [BOHR International Journal of Smart Computing and Information Technology](https://doi.org/10.54646/bijscit.2023.39).

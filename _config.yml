@@ -38,11 +38,11 @@ author:
   googlescholar    : # URL
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : "https://orcid.org/0009-0002-8773-1377"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Suraj-Karki-6"
   scopus           : # URL
   zotero           : # URL
 
@@ -84,12 +84,16 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  manuscripts:
+    title: 'Journal Articles'
+  preprints:
+    title: 'Preprints'
+  posters:
+    title: 'Posters'
+  software:
+    title: 'Software'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
