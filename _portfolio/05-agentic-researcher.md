@@ -4,7 +4,7 @@ excerpt: "A CrewAI multi-agent system that researches, writes, and edits a one-p
 collection: portfolio
 permalink: /portfolio/agentic-researcher/
 header:
-  teaser: portfolio/agentic-researcher.png
+  teaser: portfolio/thumbs/agentic-researcher.jpg
 ---
 
 ![Agentic Researcher](/images/portfolio/agentic-researcher.png)

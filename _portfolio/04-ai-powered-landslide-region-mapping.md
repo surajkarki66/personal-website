@@ -4,7 +4,7 @@ excerpt: "Semantic segmentation of landslide regions in satellite and UAV imager
 collection: portfolio
 permalink: /portfolio/ai-powered-landslide-region-mapping/
 header:
-  teaser: portfolio/landslide.png
+  teaser: portfolio/thumbs/landslide.jpg
 ---
 
 ![AI-Powered Landslide Region Mapping](/images/portfolio/landslide.png)

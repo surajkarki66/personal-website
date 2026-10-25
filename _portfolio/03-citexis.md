@@ -4,7 +4,7 @@ excerpt: "A hybrid academic paper discovery platform combining semantic search, 
 collection: portfolio
 permalink: /portfolio/citexis/
 header:
-  teaser: portfolio/citexis.png
+  teaser: portfolio/thumbs/citexis.jpg
 ---
 
 ![Citexis](/images/portfolio/citexis.png)

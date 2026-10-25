@@ -4,7 +4,7 @@ excerpt: "A budget-aware LLM agent workflow that repairs and optimizes AMD Vitis
 collection: portfolio
 permalink: /portfolio/hail/
 header:
-  teaser: portfolio/hail.jpg
+  teaser: portfolio/thumbs/hail.jpg
 ---
 
 ![HAIL - AI for Hardware Synthesis](/images/portfolio/hail.jpg)

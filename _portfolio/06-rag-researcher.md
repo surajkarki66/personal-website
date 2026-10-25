@@ -4,7 +4,7 @@ excerpt: "A fully local retrieval-augmented generation (RAG) assistant for analy
 collection: portfolio
 permalink: /portfolio/rag-researcher/
 header:
-  teaser: portfolio/rag-researcher.png
+  teaser: portfolio/thumbs/rag-researcher.jpg
 ---
 
 ![RAG Researcher](/images/portfolio/rag-researcher.png)

@@ -4,7 +4,7 @@ excerpt: "A small MLP trained on UNSW-NB15, quantized to INT8 and run on a custo
 collection: portfolio
 permalink: /portfolio/fpga-accelerated-network-intrusion-detection/
 header:
-  teaser: portfolio/fpga-nids.png
+  teaser: portfolio/thumbs/fpga-nids.jpg
 ---
 
 ![FPGA-Accelerated Network Intrusion Detection](/images/portfolio/fpga-nids.png)

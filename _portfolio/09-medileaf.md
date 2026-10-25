@@ -1,16 +1,22 @@
 ---
 title: "MediLeaf"
-excerpt: "MediLeaf is an application whose motive is to help the individual to identify medicinal plant with their properties by just scanning the leaf of any plant which might result creating curiosity about plant that lead to the preservation of the valuable plants as well as source of income."
+excerpt: "An Android app that identifies medicinal plants and their properties by scanning a leaf, powered by a CNN with over 95% accuracy."
 collection: portfolio
 permalink: /portfolio/medileaf/
 header:
-  teaser: portfolio/medileaf.png
+  teaser: portfolio/thumbs/medileaf.jpg
 ---
 
 ![MediLeaf](/images/portfolio/medileaf.png)
 
-MediLeaf is an application whose motive is to help the individual to identify medicinal plant with their properties by just scanning the leaf of any plant which might result creating curiosity about plant that lead to the preservation of the valuable plants as well as source of income.
+MediLeaf is an Android application that helps people identify medicinal plants and learn about their properties simply by scanning a leaf. By making plant knowledge accessible, it aims to spark curiosity about medicinal plants, support their preservation, and highlight their value as a source of income.
 
-**Tech stack:** Flutter · Tensorflow · Django · PostgreSQL
+**Highlights**
 
-[Source code](https://github.com/surajkarki66/MediLeaf_Mobile)
+* CNN-based leaf classifier with over 95% accuracy, with data and model versioning in DVC.
+* Three-part architecture: an AI model server that predicts the plant species, a knowledge-base server for plant properties and significance, and a Flutter mobile app that brings them together.
+* Backend services containerized with Docker.
+
+**Tech stack:** TensorFlow · Scikit-learn · CNN · DVC · FastAPI · Django · PostgreSQL · Flutter · Docker
+
+Source code: [Mobile app](https://github.com/surajkarki66/MediLeaf_Mobile) · [AI model server](https://github.com/surajkarki66/MediLeaf_AI) · [Knowledge-base server](https://github.com/surajkarki66/MediLeaf_backend)
