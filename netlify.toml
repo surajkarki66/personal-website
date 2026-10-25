@@ -1,0 +1,30 @@
+[build]
+  command = "bundle exec jekyll build"
+  publish = "_site"
+
+[build.environment]
+  RUBY_VERSION = "3.3.6"
+  JEKYLL_ENV = "production"
+
+# Asset links are absolute (built from `url` in _config.yml), so previews must
+# point them at their own Netlify URL instead of the production domain.
+[context.deploy-preview]
+  command = "echo \"url: $DEPLOY_PRIME_URL\" > _config_netlify.yml && bundle exec jekyll build --config _config.yml,_config_netlify.yml"
+
+[context.branch-deploy]
+  command = "echo \"url: $DEPLOY_PRIME_URL\" > _config_netlify.yml && bundle exec jekyll build --config _config.yml,_config_netlify.yml"
+
+[[redirects]]
+  from = "/resume"
+  to = "/cv/"
+  status = 301
+
+[[redirects]]
+  from = "/contact"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/blog"
+  to = "https://savvysuraj.hashnode.dev/"
+  status = 301
